@@ -1,0 +1,2157 @@
+page,category,label,mentions
+2,scenario,ACCESS,1
+2,technology,Coal,1
+2,technology,Oil,1
+3,scenario,ACCESS,1
+3,technology,Oil,2
+3,technology,Natural gas/LNG,3
+5,scenario,ACCESS,1
+6,technology,Bioenergy,1
+8,technology,Oil,1
+9,technology,Hydrogen,1
+11,technology,Coal,1
+11,technology,Oil,1
+11,technology,Natural gas/LNG,1
+12,scenario,ACCESS,3
+12,technology,Solar PV,1
+12,technology,Batteries/storage,1
+12,technology,Oil,1
+12,technology,Natural gas/LNG,2
+13,scenario,CPS,1
+13,scenario,STEPS,1
+13,technology,Coal,1
+13,technology,Oil,1
+13,technology,Natural gas/LNG,1
+14,scenario,CPS,1
+14,scenario,STEPS,1
+14,scenario,ACCESS,3
+14,technology,Coal,1
+14,technology,Oil,1
+14,technology,Natural gas/LNG,1
+15,scenario,NZE,1
+17,scenario,CPS,3
+17,scenario,STEPS,2
+17,scenario,NZE,1
+17,technology,Batteries/storage,1
+17,technology,Nuclear,1
+17,technology,Coal,2
+17,technology,Oil,4
+17,technology,Natural gas/LNG,4
+18,scenario,CPS,1
+18,scenario,STEPS,2
+18,scenario,NZE,1
+18,scenario,ACCESS,2
+18,technology,Batteries/storage,2
+18,technology,Electric vehicles,2
+18,technology,Nuclear,1
+18,technology,Oil,1
+19,scenario,CPS,2
+19,scenario,STEPS,2
+19,scenario,NZE,1
+19,technology,Wind,1
+19,technology,Oil,1
+20,scenario,CPS,1
+20,scenario,STEPS,1
+20,technology,Solar PV,1
+20,technology,Batteries/storage,3
+20,technology,Coal,1
+20,technology,Oil,4
+21,scenario,CPS,1
+21,scenario,STEPS,3
+21,scenario,NZE,1
+21,scenario,ACCESS,1
+21,technology,Solar PV,2
+21,technology,Wind,1
+21,technology,Batteries/storage,2
+21,technology,Electric vehicles,1
+21,technology,Nuclear,4
+21,technology,Bioenergy,1
+21,technology,Geothermal,1
+21,technology,Coal,3
+21,technology,Oil,4
+21,technology,Natural gas/LNG,2
+22,scenario,CPS,3
+22,scenario,STEPS,5
+22,scenario,NZE,2
+22,technology,Batteries/storage,1
+22,technology,Electric vehicles,6
+22,technology,Nuclear,1
+22,technology,Coal,1
+22,technology,Oil,9
+22,technology,Natural gas/LNG,11
+23,scenario,CPS,4
+23,scenario,STEPS,3
+23,scenario,NZE,3
+23,scenario,ACCESS,6
+23,technology,Wind,1
+23,technology,Coal,6
+23,technology,Natural gas/LNG,6
+24,scenario,STEPS,3
+24,scenario,NZE,1
+24,scenario,ACCESS,1
+24,technology,Wind,1
+24,technology,CCUS/CCS,1
+24,technology,Nuclear,1
+24,technology,Hydrogen,1
+24,technology,Geothermal,1
+24,technology,Oil,1
+25,scenario,ACCESS,1
+27,scenario,CPS,5
+27,scenario,STEPS,6
+27,scenario,NZE,1
+27,scenario,ACCESS,1
+27,technology,Coal,2
+27,technology,Oil,2
+27,technology,Natural gas/LNG,4
+28,technology,Solar PV,2
+28,technology,Nuclear,1
+28,technology,Geothermal,1
+29,scenario,CPS,1
+29,scenario,STEPS,1
+29,scenario,ACCESS,2
+29,technology,Solar PV,1
+29,technology,Batteries/storage,1
+29,technology,Natural gas/LNG,3
+30,scenario,CPS,8
+30,scenario,STEPS,7
+31,scenario,CPS,7
+31,scenario,STEPS,7
+32,scenario,CPS,9
+32,scenario,STEPS,7
+32,technology,Electric vehicles,6
+32,technology,Coal,6
+32,technology,Oil,7
+32,technology,Natural gas/LNG,1
+33,scenario,CPS,7
+33,scenario,STEPS,9
+33,technology,Electric vehicles,1
+33,technology,Coal,4
+33,technology,Oil,5
+33,technology,Natural gas/LNG,9
+34,scenario,CPS,5
+34,scenario,STEPS,13
+34,technology,Solar PV,1
+34,technology,Batteries/storage,1
+34,technology,Electric vehicles,4
+34,technology,Oil,4
+34,technology,Natural gas/LNG,2
+35,scenario,STEPS,9
+35,technology,Electric vehicles,1
+35,technology,Coal,2
+35,technology,Natural gas/LNG,5
+36,scenario,CPS,5
+36,scenario,STEPS,5
+36,technology,Coal,3
+36,technology,Oil,1
+36,technology,Natural gas/LNG,2
+37,scenario,CPS,8
+37,scenario,STEPS,5
+37,scenario,NZE,12
+37,technology,Electric vehicles,1
+37,technology,Coal,1
+38,scenario,CPS,3
+38,scenario,STEPS,3
+38,scenario,NZE,10
+38,technology,CCUS/CCS,1
+38,technology,Hydrogen,1
+39,scenario,CPS,1
+39,scenario,STEPS,2
+39,scenario,NZE,1
+39,technology,Wind,1
+40,scenario,CPS,4
+40,scenario,STEPS,8
+40,scenario,NZE,2
+40,technology,Nuclear,2
+41,scenario,CPS,2
+41,scenario,STEPS,3
+41,scenario,NZE,5
+41,scenario,ACCESS,1
+41,technology,Electric vehicles,1
+41,technology,Heat pumps,1
+41,technology,Nuclear,1
+41,technology,Hydrogen,5
+41,technology,Bioenergy,2
+42,scenario,CPS,1
+42,scenario,STEPS,1
+42,scenario,NZE,1
+43,scenario,CPS,4
+43,scenario,STEPS,4
+44,scenario,CPS,7
+44,scenario,STEPS,6
+44,technology,Electric vehicles,1
+44,technology,Bioenergy,1
+44,technology,Geothermal,1
+44,technology,Coal,2
+44,technology,Oil,3
+44,technology,Natural gas/LNG,3
+45,scenario,CPS,8
+45,scenario,STEPS,8
+45,scenario,NZE,8
+45,technology,Electric vehicles,2
+45,technology,Heat pumps,4
+45,technology,Hydrogen,2
+45,technology,Oil,1
+46,scenario,CPS,1
+46,scenario,STEPS,5
+46,scenario,NZE,1
+46,technology,Electric vehicles,1
+46,technology,Heat pumps,2
+46,technology,Hydrogen,1
+47,scenario,CPS,2
+47,scenario,STEPS,4
+47,scenario,NZE,1
+47,technology,Solar PV,2
+47,technology,Electric vehicles,3
+47,technology,Heat pumps,1
+47,technology,Oil,1
+47,technology,Natural gas/LNG,1
+48,scenario,STEPS,1
+48,scenario,ACCESS,1
+48,technology,Batteries/storage,2
+48,technology,Electric vehicles,4
+48,technology,Coal,1
+49,scenario,CPS,5
+49,scenario,STEPS,5
+49,scenario,NZE,5
+49,technology,Batteries/storage,1
+49,technology,Oil,1
+49,technology,Natural gas/LNG,3
+50,scenario,CPS,1
+50,scenario,STEPS,1
+50,scenario,NZE,1
+50,scenario,ACCESS,1
+50,technology,Batteries/storage,2
+50,technology,Electric vehicles,1
+50,technology,Heat pumps,1
+50,technology,Oil,1
+50,technology,Natural gas/LNG,1
+51,scenario,CPS,8
+51,scenario,STEPS,8
+51,scenario,NZE,8
+51,technology,Oil,1
+52,scenario,STEPS,1
+52,technology,Electric vehicles,1
+53,scenario,STEPS,1
+54,scenario,CPS,2
+54,scenario,STEPS,3
+54,scenario,ACCESS,1
+54,technology,Nuclear,4
+54,technology,Oil,1
+54,technology,Natural gas/LNG,2
+55,technology,Batteries/storage,3
+56,scenario,ACCESS,8
+56,technology,Solar PV,1
+56,technology,Batteries/storage,1
+57,scenario,ACCESS,17
+57,technology,Natural gas/LNG,1
+58,scenario,CPS,1
+58,scenario,STEPS,7
+58,scenario,ACCESS,19
+59,scenario,ACCESS,17
+60,scenario,CPS,1
+60,scenario,STEPS,2
+60,scenario,ACCESS,14
+61,scenario,STEPS,6
+61,scenario,ACCESS,10
+62,scenario,CPS,1
+62,scenario,STEPS,1
+62,scenario,NZE,1
+62,scenario,ACCESS,1
+62,technology,Solar PV,1
+62,technology,Batteries/storage,1
+62,technology,Electric vehicles,1
+62,technology,Oil,1
+62,technology,Natural gas/LNG,1
+63,technology,Wind,1
+63,technology,Batteries/storage,2
+64,scenario,CPS,1
+64,scenario,STEPS,2
+64,scenario,NZE,2
+64,technology,Wind,1
+64,technology,Heat pumps,1
+64,technology,Coal,1
+64,technology,Natural gas/LNG,1
+65,scenario,CPS,1
+65,scenario,STEPS,5
+65,scenario,NZE,6
+65,technology,Batteries/storage,4
+65,technology,Nuclear,1
+66,scenario,STEPS,4
+66,technology,Solar PV,1
+67,scenario,CPS,3
+67,scenario,STEPS,4
+67,technology,Wind,1
+67,technology,Oil,12
+67,technology,Natural gas/LNG,1
+68,scenario,STEPS,1
+68,technology,Oil,2
+68,technology,Natural gas/LNG,11
+69,scenario,CPS,2
+69,scenario,STEPS,2
+69,technology,Natural gas/LNG,14
+70,scenario,CPS,5
+70,scenario,STEPS,4
+70,scenario,NZE,4
+70,technology,Hydrogen,1
+70,technology,Natural gas/LNG,10
+71,scenario,CPS,7
+71,scenario,STEPS,8
+71,technology,Nuclear,1
+71,technology,Natural gas/LNG,15
+72,scenario,CPS,1
+72,scenario,STEPS,4
+72,technology,Coal,1
+72,technology,Oil,1
+72,technology,Natural gas/LNG,17
+73,scenario,STEPS,3
+73,technology,Coal,15
+73,technology,Natural gas/LNG,12
+74,technology,Solar PV,2
+74,technology,Wind,2
+74,technology,Batteries/storage,4
+74,technology,Electric vehicles,1
+74,technology,Coal,2
+75,scenario,CPS,3
+75,scenario,STEPS,3
+75,technology,Solar PV,3
+75,technology,Wind,2
+75,technology,Batteries/storage,1
+75,technology,Electric vehicles,1
+76,technology,Solar PV,3
+76,technology,Batteries/storage,2
+76,technology,Electric vehicles,1
+77,scenario,CPS,3
+77,scenario,STEPS,3
+77,scenario,NZE,1
+77,scenario,ACCESS,1
+77,technology,Solar PV,6
+77,technology,Wind,2
+77,technology,Electric vehicles,3
+78,scenario,CPS,10
+78,scenario,STEPS,10
+78,scenario,NZE,1
+78,technology,Solar PV,3
+78,technology,Wind,3
+78,technology,Electric vehicles,5
+78,technology,Coal,1
+79,scenario,CPS,1
+79,scenario,STEPS,1
+79,scenario,NZE,3
+79,technology,Solar PV,1
+79,technology,Electric vehicles,1
+79,technology,Nuclear,1
+80,scenario,CPS,4
+80,scenario,STEPS,4
+80,scenario,NZE,5
+80,technology,Batteries/storage,1
+80,technology,Nuclear,1
+80,technology,Coal,1
+80,technology,Oil,4
+81,scenario,CPS,4
+81,scenario,STEPS,4
+81,scenario,NZE,4
+81,technology,Coal,4
+81,technology,Oil,2
+81,technology,Natural gas/LNG,2
+82,scenario,ACCESS,1
+82,technology,Oil,1
+83,scenario,CPS,9
+83,scenario,STEPS,9
+83,scenario,NZE,10
+83,technology,Nuclear,1
+85,scenario,CPS,3
+85,scenario,STEPS,2
+85,scenario,NZE,1
+85,scenario,ACCESS,4
+85,technology,Wind,1
+85,technology,Electric vehicles,1
+85,technology,Nuclear,1
+86,technology,Solar PV,1
+86,technology,Wind,1
+86,technology,Batteries/storage,1
+86,technology,Electric vehicles,1
+86,technology,Nuclear,1
+86,technology,Coal,1
+86,technology,Oil,1
+86,technology,Natural gas/LNG,1
+87,scenario,CPS,2
+87,scenario,STEPS,2
+87,scenario,NZE,1
+87,scenario,ACCESS,2
+87,technology,Batteries/storage,1
+88,technology,Nuclear,1
+88,technology,Coal,3
+88,technology,Oil,2
+88,technology,Natural gas/LNG,2
+89,technology,Solar PV,4
+89,technology,Wind,3
+89,technology,Nuclear,3
+89,technology,Bioenergy,1
+89,technology,Geothermal,1
+89,technology,Coal,3
+89,technology,Oil,2
+89,technology,Natural gas/LNG,5
+90,scenario,ACCESS,4
+90,technology,Electric vehicles,2
+90,technology,Bioenergy,1
+90,technology,Coal,2
+90,technology,Oil,7
+90,technology,Natural gas/LNG,1
+91,scenario,ACCESS,2
+91,technology,Solar PV,1
+91,technology,Nuclear,2
+91,technology,Coal,2
+91,technology,Oil,3
+91,technology,Natural gas/LNG,1
+92,technology,Solar PV,5
+92,technology,Wind,2
+92,technology,Batteries/storage,6
+92,technology,Electric vehicles,2
+92,technology,Nuclear,1
+92,technology,Coal,1
+92,technology,Oil,1
+92,technology,Natural gas/LNG,1
+93,technology,Solar PV,2
+93,technology,Wind,2
+93,technology,Batteries/storage,3
+93,technology,Electric vehicles,1
+93,technology,Heat pumps,1
+93,technology,Nuclear,2
+93,technology,Hydrogen,3
+93,technology,Coal,3
+93,technology,Natural gas/LNG,3
+95,technology,Oil,1
+97,scenario,ACCESS,1
+97,technology,Natural gas/LNG,4
+98,technology,Solar PV,2
+98,technology,Batteries/storage,4
+98,technology,Electric vehicles,2
+99,technology,Wind,1
+99,technology,Electric vehicles,1
+99,technology,Nuclear,2
+99,technology,Hydrogen,1
+99,technology,Bioenergy,1
+99,technology,Geothermal,2
+99,technology,Coal,2
+99,technology,Oil,6
+99,technology,Natural gas/LNG,2
+100,scenario,CPS,1
+100,scenario,STEPS,1
+100,technology,Wind,4
+100,technology,Batteries/storage,1
+100,technology,Electric vehicles,3
+100,technology,CCUS/CCS,3
+100,technology,Nuclear,1
+100,technology,Hydrogen,2
+100,technology,Bioenergy,1
+100,technology,Geothermal,1
+100,technology,Coal,1
+100,technology,Oil,2
+100,technology,Natural gas/LNG,1
+101,scenario,ACCESS,2
+101,technology,Solar PV,1
+101,technology,Wind,1
+101,technology,Batteries/storage,1
+101,technology,Nuclear,1
+101,technology,Bioenergy,3
+102,scenario,STEPS,1
+102,scenario,ACCESS,4
+102,technology,Wind,2
+102,technology,Electric vehicles,3
+102,technology,Nuclear,2
+102,technology,Coal,1
+103,technology,Oil,13
+103,technology,Natural gas/LNG,2
+104,scenario,CPS,2
+104,scenario,STEPS,3
+104,technology,Natural gas/LNG,1
+105,scenario,CPS,11
+105,scenario,STEPS,7
+105,scenario,NZE,1
+105,scenario,ACCESS,1
+106,scenario,NZE,1
+106,scenario,ACCESS,3
+108,scenario,CPS,1
+108,technology,Oil,5
+109,scenario,CPS,3
+109,scenario,STEPS,4
+109,scenario,NZE,5
+109,technology,Coal,5
+109,technology,Oil,7
+109,technology,Natural gas/LNG,12
+110,scenario,CPS,2
+110,scenario,STEPS,3
+110,scenario,NZE,2
+110,technology,Batteries/storage,1
+110,technology,Coal,5
+110,technology,Oil,2
+110,technology,Natural gas/LNG,7
+111,scenario,CPS,1
+111,scenario,STEPS,1
+111,scenario,NZE,1
+111,technology,Batteries/storage,2
+112,technology,Solar PV,3
+112,technology,Wind,1
+112,technology,Batteries/storage,12
+112,technology,Electric vehicles,2
+113,technology,Solar PV,4
+113,technology,Wind,4
+113,technology,Batteries/storage,5
+113,technology,Electric vehicles,1
+113,technology,Oil,3
+113,technology,Natural gas/LNG,1
+114,scenario,CPS,3
+114,scenario,STEPS,3
+114,scenario,NZE,3
+114,technology,Solar PV,3
+114,technology,Wind,6
+114,technology,Batteries/storage,8
+114,technology,Nuclear,2
+114,technology,Oil,1
+115,technology,Solar PV,1
+115,technology,Wind,2
+115,technology,Batteries/storage,2
+115,technology,Oil,1
+117,scenario,CPS,3
+117,scenario,STEPS,2
+119,scenario,CPS,7
+119,technology,Solar PV,2
+119,technology,Wind,1
+119,technology,Electric vehicles,3
+119,technology,Nuclear,1
+119,technology,Coal,1
+119,technology,Oil,5
+119,technology,Natural gas/LNG,2
+120,scenario,CPS,1
+120,technology,Solar PV,2
+120,technology,Wind,2
+120,technology,Coal,2
+120,technology,Oil,4
+120,technology,Natural gas/LNG,2
+121,scenario,CPS,12
+121,technology,Nuclear,1
+121,technology,Oil,1
+121,technology,Natural gas/LNG,1
+122,scenario,CPS,5
+122,technology,Solar PV,2
+122,technology,Wind,2
+122,technology,Nuclear,4
+122,technology,Coal,1
+122,technology,Oil,2
+122,technology,Natural gas/LNG,1
+123,scenario,CPS,4
+123,technology,Solar PV,1
+123,technology,Wind,1
+123,technology,Nuclear,3
+123,technology,Bioenergy,1
+123,technology,Coal,6
+123,technology,Oil,6
+123,technology,Natural gas/LNG,5
+124,scenario,CPS,1
+124,technology,Coal,3
+124,technology,Natural gas/LNG,1
+125,scenario,CPS,7
+126,scenario,CPS,4
+126,technology,Batteries/storage,1
+126,technology,Electric vehicles,5
+126,technology,Hydrogen,4
+126,technology,Bioenergy,1
+126,technology,Oil,2
+126,technology,Natural gas/LNG,1
+127,scenario,CPS,3
+127,technology,Electric vehicles,1
+127,technology,Oil,2
+128,scenario,CPS,5
+128,technology,Electric vehicles,4
+128,technology,Hydrogen,1
+128,technology,Oil,2
+128,technology,Natural gas/LNG,2
+129,scenario,CPS,4
+129,technology,Electric vehicles,1
+129,technology,Hydrogen,1
+130,scenario,CPS,5
+130,technology,Bioenergy,1
+130,technology,Oil,9
+130,technology,Natural gas/LNG,2
+131,scenario,CPS,5
+131,technology,Heat pumps,1
+131,technology,Hydrogen,1
+131,technology,Bioenergy,1
+131,technology,Geothermal,1
+131,technology,Coal,1
+131,technology,Oil,1
+131,technology,Natural gas/LNG,1
+132,scenario,CPS,5
+132,technology,Coal,1
+132,technology,Oil,1
+132,technology,Natural gas/LNG,6
+133,scenario,CPS,5
+133,technology,Heat pumps,3
+134,scenario,CPS,4
+134,technology,Bioenergy,1
+134,technology,Coal,3
+134,technology,Oil,3
+134,technology,Natural gas/LNG,2
+135,scenario,CPS,7
+136,scenario,CPS,4
+136,technology,Coal,1
+137,scenario,CPS,6
+138,scenario,CPS,2
+138,technology,Electric vehicles,3
+138,technology,Heat pumps,2
+139,scenario,CPS,6
+139,technology,Solar PV,2
+139,technology,Wind,2
+139,technology,Electric vehicles,1
+140,scenario,CPS,6
+140,technology,Solar PV,5
+140,technology,Wind,4
+140,technology,CCUS/CCS,3
+140,technology,Nuclear,6
+140,technology,Hydrogen,1
+140,technology,Bioenergy,1
+140,technology,Geothermal,2
+140,technology,Coal,3
+140,technology,Oil,1
+140,technology,Natural gas/LNG,4
+141,scenario,CPS,2
+141,technology,Solar PV,2
+141,technology,Wind,2
+141,technology,CCUS/CCS,1
+141,technology,Nuclear,4
+141,technology,Hydrogen,1
+141,technology,Bioenergy,1
+141,technology,Geothermal,1
+141,technology,Coal,4
+141,technology,Oil,2
+141,technology,Natural gas/LNG,3
+142,scenario,CPS,4
+142,technology,Solar PV,1
+142,technology,Wind,1
+142,technology,Nuclear,3
+142,technology,Coal,10
+142,technology,Oil,3
+142,technology,Natural gas/LNG,4
+143,scenario,CPS,5
+143,scenario,ACCESS,1
+143,technology,Solar PV,3
+143,technology,Wind,4
+143,technology,Batteries/storage,2
+143,technology,Nuclear,1
+143,technology,Coal,1
+143,technology,Oil,5
+143,technology,Natural gas/LNG,3
+144,scenario,CPS,5
+144,scenario,STEPS,1
+144,technology,Batteries/storage,3
+144,technology,Nuclear,15
+144,technology,Geothermal,1
+144,technology,Coal,4
+145,scenario,CPS,2
+145,scenario,ACCESS,1
+145,technology,Nuclear,5
+147,scenario,CPS,1
+147,technology,Wind,1
+148,scenario,CPS,2
+148,technology,Wind,2
+149,scenario,CPS,4
+149,technology,Solar PV,1
+149,technology,Wind,3
+150,scenario,CPS,2
+151,scenario,CPS,5
+151,technology,Wind,2
+151,technology,Oil,6
+151,technology,Natural gas/LNG,4
+152,scenario,CPS,2
+152,technology,Coal,7
+152,technology,Oil,10
+152,technology,Natural gas/LNG,4
+153,scenario,CPS,3
+153,technology,Bioenergy,1
+153,technology,Oil,14
+154,scenario,CPS,3
+154,technology,Oil,12
+155,scenario,CPS,4
+155,technology,Oil,7
+156,scenario,CPS,6
+156,scenario,ACCESS,1
+156,technology,Oil,14
+156,technology,Natural gas/LNG,1
+157,scenario,CPS,6
+157,technology,Oil,7
+158,scenario,CPS,3
+158,technology,Oil,2
+159,scenario,CPS,4
+159,technology,Oil,5
+159,technology,Natural gas/LNG,4
+160,scenario,CPS,4
+160,technology,Oil,10
+161,scenario,CPS,4
+161,technology,Coal,1
+161,technology,Natural gas/LNG,9
+162,scenario,CPS,4
+162,technology,Oil,2
+162,technology,Natural gas/LNG,7
+163,scenario,CPS,5
+163,technology,Natural gas/LNG,7
+164,scenario,CPS,4
+164,technology,Natural gas/LNG,22
+165,scenario,CPS,6
+165,technology,Natural gas/LNG,14
+166,scenario,CPS,3
+166,technology,Coal,13
+166,technology,Natural gas/LNG,4
+167,scenario,CPS,3
+167,technology,Solar PV,2
+167,technology,Wind,2
+167,technology,Coal,15
+168,scenario,CPS,7
+168,technology,Solar PV,2
+168,technology,Wind,3
+168,technology,Coal,11
+169,scenario,CPS,6
+169,technology,Coal,17
+170,scenario,CPS,4
+170,technology,Coal,14
+171,scenario,STEPS,6
+171,technology,Wind,1
+171,technology,Batteries/storage,1
+171,technology,Electric vehicles,4
+171,technology,Nuclear,1
+171,technology,Bioenergy,1
+171,technology,Coal,2
+171,technology,Oil,3
+171,technology,Natural gas/LNG,3
+172,scenario,STEPS,1
+172,technology,Nuclear,1
+172,technology,Coal,3
+172,technology,Oil,3
+172,technology,Natural gas/LNG,1
+173,scenario,CPS,1
+173,scenario,STEPS,7
+173,technology,Coal,1
+173,technology,Oil,1
+173,technology,Natural gas/LNG,3
+174,scenario,STEPS,1
+174,technology,Nuclear,1
+174,technology,Coal,3
+174,technology,Oil,2
+174,technology,Natural gas/LNG,1
+175,scenario,STEPS,3
+175,technology,Nuclear,1
+175,technology,Bioenergy,1
+175,technology,Coal,1
+175,technology,Oil,3
+175,technology,Natural gas/LNG,3
+176,scenario,STEPS,3
+176,technology,Nuclear,1
+176,technology,Coal,3
+176,technology,Oil,1
+177,scenario,STEPS,3
+177,scenario,ACCESS,3
+177,technology,Coal,1
+177,technology,Natural gas/LNG,2
+178,scenario,STEPS,2
+178,technology,Electric vehicles,2
+178,technology,Bioenergy,3
+178,technology,Oil,4
+178,technology,Natural gas/LNG,5
+179,scenario,STEPS,3
+179,technology,Hydrogen,4
+179,technology,Bioenergy,4
+179,technology,Oil,5
+179,technology,Natural gas/LNG,1
+180,scenario,STEPS,4
+180,technology,Electric vehicles,1
+180,technology,Hydrogen,1
+180,technology,Bioenergy,1
+180,technology,Oil,15
+180,technology,Natural gas/LNG,1
+181,scenario,STEPS,3
+181,technology,Batteries/storage,3
+181,technology,Electric vehicles,5
+181,technology,Bioenergy,1
+181,technology,Oil,5
+181,technology,Natural gas/LNG,1
+182,scenario,STEPS,3
+182,technology,Electric vehicles,2
+182,technology,Bioenergy,1
+182,technology,Oil,3
+182,technology,Natural gas/LNG,1
+183,scenario,STEPS,5
+183,technology,Batteries/storage,9
+183,technology,Electric vehicles,5
+183,technology,Coal,2
+183,technology,Oil,2
+183,technology,Natural gas/LNG,3
+184,scenario,STEPS,2
+184,scenario,ACCESS,2
+184,technology,Heat pumps,1
+184,technology,Hydrogen,1
+184,technology,Bioenergy,1
+184,technology,Geothermal,1
+184,technology,Coal,1
+184,technology,Oil,1
+184,technology,Natural gas/LNG,1
+185,scenario,STEPS,5
+185,technology,Heat pumps,11
+186,scenario,STEPS,3
+186,technology,Heat pumps,5
+186,technology,Natural gas/LNG,1
+187,scenario,STEPS,4
+188,scenario,STEPS,3
+188,technology,Solar PV,1
+188,technology,Electric vehicles,1
+189,scenario,STEPS,3
+189,technology,Coal,5
+189,technology,Natural gas/LNG,2
+190,scenario,STEPS,2
+190,technology,Hydrogen,4
+190,technology,Bioenergy,1
+190,technology,Geothermal,1
+190,technology,Coal,1
+190,technology,Oil,3
+190,technology,Natural gas/LNG,3
+191,scenario,STEPS,4
+192,scenario,STEPS,1
+193,scenario,STEPS,3
+193,scenario,ACCESS,1
+193,technology,Heat pumps,1
+194,scenario,STEPS,4
+194,technology,Electric vehicles,2
+194,technology,Heat pumps,2
+194,technology,Hydrogen,2
+195,scenario,STEPS,4
+195,scenario,ACCESS,1
+195,technology,Electric vehicles,2
+195,technology,Heat pumps,1
+195,technology,Hydrogen,1
+196,scenario,STEPS,3
+196,technology,Electric vehicles,1
+196,technology,Heat pumps,1
+197,scenario,STEPS,6
+197,technology,Solar PV,3
+197,technology,Wind,3
+197,technology,Batteries/storage,2
+197,technology,Hydrogen,1
+197,technology,Coal,1
+198,scenario,STEPS,2
+198,technology,Solar PV,4
+198,technology,Wind,4
+198,technology,CCUS/CCS,3
+198,technology,Nuclear,4
+198,technology,Hydrogen,1
+198,technology,Bioenergy,1
+198,technology,Geothermal,1
+198,technology,Coal,3
+198,technology,Oil,2
+198,technology,Natural gas/LNG,2
+199,scenario,STEPS,5
+199,technology,Solar PV,3
+199,technology,Wind,3
+199,technology,CCUS/CCS,3
+199,technology,Nuclear,5
+199,technology,Hydrogen,1
+199,technology,Bioenergy,1
+199,technology,Geothermal,1
+199,technology,Coal,3
+199,technology,Oil,1
+199,technology,Natural gas/LNG,4
+200,scenario,STEPS,1
+200,technology,Solar PV,3
+200,technology,Wind,4
+200,technology,CCUS/CCS,3
+200,technology,Nuclear,4
+200,technology,Hydrogen,3
+200,technology,Bioenergy,1
+200,technology,Geothermal,2
+200,technology,Coal,1
+200,technology,Natural gas/LNG,1
+201,scenario,STEPS,3
+201,technology,Solar PV,6
+201,technology,Wind,7
+201,technology,Batteries/storage,8
+201,technology,Nuclear,8
+201,technology,Coal,1
+202,scenario,STEPS,1
+202,technology,Solar PV,4
+202,technology,Wind,4
+202,technology,Batteries/storage,2
+202,technology,Nuclear,3
+202,technology,Coal,3
+203,scenario,STEPS,1
+203,technology,Solar PV,4
+203,technology,Wind,4
+203,technology,Batteries/storage,4
+203,technology,Nuclear,2
+203,technology,Coal,11
+203,technology,Natural gas/LNG,2
+204,scenario,STEPS,3
+204,scenario,ACCESS,1
+204,technology,Batteries/storage,2
+204,technology,Nuclear,1
+204,technology,Bioenergy,1
+204,technology,Coal,4
+204,technology,Oil,6
+204,technology,Natural gas/LNG,3
+205,scenario,STEPS,3
+205,technology,Solar PV,5
+205,technology,Wind,9
+205,technology,Batteries/storage,3
+205,technology,CCUS/CCS,3
+205,technology,Nuclear,1
+205,technology,Hydrogen,1
+205,technology,Bioenergy,1
+205,technology,Geothermal,1
+205,technology,Coal,2
+205,technology,Oil,1
+205,technology,Natural gas/LNG,2
+206,scenario,STEPS,3
+206,technology,Solar PV,7
+207,scenario,STEPS,5
+207,technology,Solar PV,1
+207,technology,Wind,1
+207,technology,Oil,1
+208,scenario,STEPS,3
+208,technology,Coal,7
+208,technology,Oil,6
+208,technology,Natural gas/LNG,3
+209,scenario,STEPS,6
+209,technology,Bioenergy,1
+209,technology,Oil,11
+210,scenario,STEPS,1
+210,technology,Oil,11
+210,technology,Natural gas/LNG,3
+211,scenario,STEPS,3
+211,technology,Oil,7
+212,scenario,STEPS,3
+212,technology,Bioenergy,1
+213,scenario,STEPS,4
+213,technology,Oil,6
+214,scenario,STEPS,2
+214,technology,Natural gas/LNG,7
+215,scenario,STEPS,4
+215,technology,Natural gas/LNG,6
+216,scenario,STEPS,2
+216,technology,Natural gas/LNG,24
+217,scenario,STEPS,2
+217,technology,Natural gas/LNG,17
+218,scenario,STEPS,1
+218,technology,Natural gas/LNG,14
+219,scenario,STEPS,5
+219,technology,Coal,18
+220,scenario,STEPS,4
+220,technology,Hydrogen,1
+220,technology,Coal,16
+220,technology,Natural gas/LNG,1
+221,scenario,STEPS,2
+221,technology,Coal,17
+222,scenario,STEPS,2
+222,technology,Hydrogen,2
+222,technology,Coal,18
+223,scenario,STEPS,3
+223,technology,CCUS/CCS,4
+223,technology,Hydrogen,12
+223,technology,Bioenergy,5
+223,technology,Oil,1
+224,scenario,STEPS,3
+224,technology,Electric vehicles,1
+224,technology,Bioenergy,11
+224,technology,Oil,2
+224,technology,Natural gas/LNG,1
+225,scenario,STEPS,3
+225,technology,Bioenergy,1
+225,technology,Coal,1
+225,technology,Oil,1
+225,technology,Natural gas/LNG,4
+226,scenario,STEPS,1
+227,scenario,CPS,10
+227,scenario,STEPS,8
+227,technology,Coal,1
+227,technology,Oil,5
+227,technology,Natural gas/LNG,2
+228,scenario,CPS,3
+228,scenario,STEPS,3
+228,technology,Solar PV,1
+228,technology,Wind,1
+228,technology,Oil,2
+228,technology,Natural gas/LNG,1
+229,scenario,CPS,12
+229,scenario,STEPS,12
+229,technology,Coal,1
+229,technology,Oil,2
+229,technology,Natural gas/LNG,1
+230,scenario,CPS,8
+230,scenario,STEPS,8
+230,technology,Electric vehicles,3
+230,technology,Coal,7
+230,technology,Oil,6
+230,technology,Natural gas/LNG,7
+231,scenario,CPS,8
+231,scenario,STEPS,8
+231,technology,Coal,2
+231,technology,Oil,5
+231,technology,Natural gas/LNG,3
+232,scenario,CPS,8
+232,scenario,STEPS,9
+232,scenario,ACCESS,4
+232,technology,Oil,5
+232,technology,Natural gas/LNG,6
+233,scenario,CPS,4
+233,scenario,STEPS,4
+233,technology,Solar PV,1
+233,technology,Batteries/storage,1
+233,technology,Oil,2
+233,technology,Natural gas/LNG,1
+234,scenario,CPS,4
+234,scenario,STEPS,4
+234,technology,Batteries/storage,1
+234,technology,Electric vehicles,1
+234,technology,Oil,10
+234,technology,Natural gas/LNG,5
+235,scenario,CPS,8
+235,scenario,STEPS,8
+235,technology,Oil,13
+235,technology,Natural gas/LNG,2
+236,scenario,CPS,10
+236,scenario,STEPS,7
+236,technology,Oil,7
+236,technology,Natural gas/LNG,4
+237,scenario,CPS,8
+237,scenario,STEPS,8
+237,technology,Oil,4
+237,technology,Natural gas/LNG,8
+238,scenario,CPS,6
+238,scenario,STEPS,5
+238,technology,Oil,9
+238,technology,Natural gas/LNG,6
+239,scenario,CPS,6
+239,scenario,STEPS,7
+239,technology,Wind,1
+239,technology,Electric vehicles,1
+239,technology,Oil,12
+239,technology,Natural gas/LNG,1
+240,scenario,CPS,2
+240,scenario,STEPS,2
+240,technology,Electric vehicles,2
+240,technology,Oil,5
+241,scenario,CPS,7
+241,scenario,STEPS,7
+241,technology,Solar PV,1
+241,technology,Wind,1
+241,technology,Batteries/storage,2
+241,technology,Nuclear,2
+241,technology,Coal,2
+241,technology,Natural gas/LNG,1
+242,scenario,STEPS,3
+242,technology,Solar PV,3
+242,technology,Wind,1
+242,technology,Batteries/storage,4
+242,technology,Nuclear,1
+242,technology,Bioenergy,1
+242,technology,Geothermal,1
+243,scenario,CPS,4
+243,scenario,STEPS,4
+243,technology,Solar PV,2
+243,technology,Wind,1
+243,technology,Batteries/storage,2
+243,technology,Electric vehicles,3
+243,technology,Nuclear,1
+243,technology,Hydrogen,1
+243,technology,Bioenergy,1
+244,technology,Solar PV,2
+244,technology,Batteries/storage,14
+244,technology,Electric vehicles,1
+244,technology,Heat pumps,1
+245,scenario,CPS,3
+245,scenario,STEPS,5
+245,technology,Solar PV,1
+245,technology,Batteries/storage,10
+245,technology,Coal,1
+245,technology,Natural gas/LNG,1
+246,scenario,CPS,5
+246,scenario,STEPS,5
+246,technology,Coal,5
+246,technology,Natural gas/LNG,7
+247,scenario,CPS,1
+247,scenario,STEPS,1
+247,technology,Wind,1
+247,technology,Batteries/storage,1
+247,technology,Nuclear,1
+247,technology,Coal,1
+247,technology,Natural gas/LNG,1
+248,technology,Oil,3
+248,technology,Natural gas/LNG,3
+249,scenario,CPS,6
+249,scenario,STEPS,5
+249,technology,Oil,1
+249,technology,Natural gas/LNG,1
+250,scenario,CPS,1
+250,scenario,STEPS,3
+250,technology,Batteries/storage,3
+251,scenario,CPS,1
+251,scenario,STEPS,1
+251,technology,Solar PV,3
+251,technology,Wind,3
+251,technology,Batteries/storage,8
+251,technology,Electric vehicles,3
+251,technology,Heat pumps,2
+251,technology,Hydrogen,1
+252,technology,Solar PV,2
+252,technology,Wind,1
+252,technology,Batteries/storage,2
+252,technology,Electric vehicles,1
+252,technology,Heat pumps,1
+253,scenario,CPS,1
+253,scenario,STEPS,3
+253,technology,Batteries/storage,1
+254,scenario,STEPS,1
+254,technology,Wind,1
+254,technology,Batteries/storage,2
+255,scenario,CPS,1
+255,scenario,STEPS,2
+255,technology,Wind,1
+255,technology,Batteries/storage,7
+255,technology,Electric vehicles,2
+255,technology,Nuclear,1
+256,technology,Solar PV,2
+256,technology,Batteries/storage,2
+256,technology,Electric vehicles,2
+257,scenario,CPS,1
+257,scenario,STEPS,1
+257,technology,Solar PV,1
+257,technology,Wind,1
+257,technology,Nuclear,1
+257,technology,Coal,2
+258,technology,Solar PV,5
+258,technology,Coal,1
+258,technology,Oil,1
+258,technology,Natural gas/LNG,2
+259,scenario,CPS,1
+259,scenario,STEPS,1
+259,technology,Solar PV,6
+259,technology,Wind,1
+261,scenario,CPS,5
+261,scenario,STEPS,6
+262,scenario,CPS,4
+262,scenario,STEPS,4
+262,technology,Wind,1
+263,scenario,CPS,2
+263,scenario,STEPS,3
+264,scenario,CPS,6
+264,scenario,STEPS,9
+265,scenario,CPS,10
+265,scenario,STEPS,7
+265,technology,Electric vehicles,1
+265,technology,Coal,7
+265,technology,Natural gas/LNG,3
+266,scenario,CPS,13
+266,scenario,STEPS,11
+266,technology,Electric vehicles,1
+267,scenario,CPS,6
+267,scenario,STEPS,4
+267,technology,Bioenergy,2
+267,technology,Coal,4
+267,technology,Oil,2
+268,scenario,CPS,8
+268,scenario,STEPS,9
+268,scenario,ACCESS,3
+268,technology,Bioenergy,1
+268,technology,Coal,1
+268,technology,Oil,1
+268,technology,Natural gas/LNG,1
+269,scenario,CPS,6
+269,scenario,STEPS,6
+269,technology,Solar PV,1
+269,technology,Wind,1
+269,technology,Electric vehicles,1
+270,scenario,CPS,10
+270,scenario,STEPS,10
+270,technology,Electric vehicles,1
+270,technology,Heat pumps,1
+270,technology,Nuclear,1
+270,technology,Coal,3
+270,technology,Oil,4
+270,technology,Natural gas/LNG,4
+271,scenario,CPS,8
+271,scenario,STEPS,8
+271,technology,Solar PV,5
+271,technology,Wind,1
+271,technology,Batteries/storage,4
+271,technology,Nuclear,2
+272,scenario,CPS,6
+272,scenario,STEPS,7
+272,technology,Electric vehicles,3
+272,technology,Heat pumps,3
+272,technology,Oil,1
+272,technology,Natural gas/LNG,1
+273,scenario,CPS,5
+273,scenario,STEPS,6
+273,technology,Electric vehicles,1
+273,technology,Oil,2
+273,technology,Natural gas/LNG,1
+274,scenario,CPS,13
+274,scenario,STEPS,12
+274,technology,Electric vehicles,7
+274,technology,Heat pumps,1
+274,technology,Oil,3
+274,technology,Natural gas/LNG,1
+275,scenario,CPS,11
+275,scenario,STEPS,8
+275,technology,Electric vehicles,1
+275,technology,Bioenergy,1
+275,technology,Coal,1
+275,technology,Oil,13
+275,technology,Natural gas/LNG,2
+276,scenario,CPS,7
+276,scenario,STEPS,4
+276,scenario,ACCESS,2
+276,technology,Electric vehicles,1
+276,technology,Heat pumps,1
+276,technology,Oil,1
+277,scenario,CPS,11
+277,scenario,STEPS,11
+277,technology,Natural gas/LNG,2
+278,scenario,CPS,4
+278,scenario,STEPS,4
+278,technology,Solar PV,1
+278,technology,Electric vehicles,1
+278,technology,Coal,3
+278,technology,Oil,2
+278,technology,Natural gas/LNG,3
+279,scenario,CPS,10
+279,scenario,STEPS,11
+279,technology,Batteries/storage,1
+279,technology,Electric vehicles,4
+279,technology,Heat pumps,1
+279,technology,Coal,1
+279,technology,Oil,1
+280,scenario,ACCESS,1
+280,technology,Solar PV,1
+280,technology,Nuclear,1
+281,scenario,NZE,1
+281,scenario,ACCESS,1
+283,scenario,ACCESS,15
+283,technology,Solar PV,1
+283,technology,Natural gas/LNG,2
+284,scenario,ACCESS,7
+284,technology,Natural gas/LNG,1
+285,scenario,ACCESS,14
+286,scenario,ACCESS,18
+286,technology,Solar PV,1
+286,technology,Batteries/storage,1
+287,scenario,ACCESS,19
+287,technology,Bioenergy,2
+287,technology,Natural gas/LNG,1
+288,scenario,ACCESS,14
+288,technology,Natural gas/LNG,2
+289,scenario,ACCESS,21
+290,scenario,ACCESS,13
+290,technology,Bioenergy,1
+291,scenario,ACCESS,13
+291,technology,Oil,1
+291,technology,Natural gas/LNG,5
+292,scenario,ACCESS,3
+292,technology,Bioenergy,1
+292,technology,Natural gas/LNG,1
+293,scenario,ACCESS,6
+293,technology,Bioenergy,1
+293,technology,Oil,1
+293,technology,Natural gas/LNG,2
+294,scenario,ACCESS,5
+294,technology,Oil,1
+295,scenario,ACCESS,9
+296,scenario,ACCESS,10
+296,technology,Natural gas/LNG,1
+297,scenario,ACCESS,19
+298,scenario,ACCESS,12
+299,scenario,ACCESS,9
+300,scenario,ACCESS,22
+301,scenario,ACCESS,6
+301,technology,Solar PV,2
+301,technology,Wind,1
+301,technology,Batteries/storage,2
+301,technology,Nuclear,1
+301,technology,Coal,1
+301,technology,Oil,2
+301,technology,Natural gas/LNG,1
+302,scenario,ACCESS,11
+303,scenario,STEPS,1
+303,scenario,ACCESS,11
+303,technology,Solar PV,1
+303,technology,Batteries/storage,3
+303,technology,Oil,1
+303,technology,Natural gas/LNG,1
+304,scenario,ACCESS,10
+305,scenario,ACCESS,7
+306,scenario,ACCESS,8
+307,scenario,ACCESS,6
+308,scenario,ACCESS,7
+309,scenario,ACCESS,10
+310,scenario,ACCESS,12
+310,technology,Oil,1
+311,scenario,CPS,7
+311,scenario,STEPS,7
+311,scenario,NZE,5
+311,scenario,ACCESS,17
+312,scenario,ACCESS,5
+313,scenario,NZE,9
+313,technology,Nuclear,1
+313,technology,Hydrogen,2
+313,technology,Bioenergy,1
+314,scenario,NZE,4
+314,technology,Nuclear,1
+315,scenario,NZE,6
+316,scenario,NZE,3
+317,scenario,NZE,5
+317,technology,Solar PV,1
+317,technology,Wind,1
+317,technology,Electric vehicles,2
+317,technology,CCUS/CCS,3
+317,technology,Hydrogen,2
+318,technology,Natural gas/LNG,1
+319,scenario,NZE,17
+320,scenario,NZE,2
+321,scenario,NZE,4
+322,scenario,NZE,3
+322,technology,CCUS/CCS,1
+322,technology,Bioenergy,2
+323,scenario,NZE,2
+324,scenario,NZE,3
+324,technology,Solar PV,1
+324,technology,CCUS/CCS,1
+324,technology,Bioenergy,5
+325,scenario,NZE,4
+325,technology,CCUS/CCS,1
+325,technology,Bioenergy,1
+326,scenario,NZE,3
+327,scenario,CPS,1
+327,scenario,STEPS,1
+327,scenario,NZE,6
+328,scenario,NZE,4
+329,scenario,NZE,9
+329,technology,CCUS/CCS,1
+329,technology,Hydrogen,1
+329,technology,Bioenergy,1
+330,scenario,NZE,3
+330,technology,Solar PV,1
+330,technology,Wind,1
+330,technology,Batteries/storage,1
+330,technology,CCUS/CCS,5
+330,technology,Nuclear,2
+330,technology,Hydrogen,1
+331,scenario,NZE,3
+331,technology,Solar PV,1
+331,technology,Wind,1
+331,technology,CCUS/CCS,4
+331,technology,Nuclear,9
+331,technology,Hydrogen,2
+331,technology,Coal,1
+331,technology,Natural gas/LNG,1
+332,scenario,NZE,6
+332,technology,Nuclear,7
+332,technology,Hydrogen,1
+333,scenario,NZE,3
+333,technology,Electric vehicles,2
+333,technology,Heat pumps,1
+333,technology,Nuclear,4
+333,technology,Hydrogen,2
+334,scenario,NZE,4
+334,technology,Electric vehicles,1
+334,technology,Heat pumps,2
+334,technology,CCUS/CCS,1
+334,technology,Hydrogen,4
+334,technology,Bioenergy,1
+335,scenario,NZE,2
+335,technology,Hydrogen,1
+336,scenario,NZE,4
+337,scenario,NZE,1
+337,technology,Batteries/storage,3
+337,technology,Electric vehicles,3
+338,scenario,NZE,5
+338,technology,Electric vehicles,1
+338,technology,Heat pumps,1
+338,technology,Hydrogen,3
+338,technology,Bioenergy,9
+338,technology,Natural gas/LNG,3
+339,scenario,NZE,4
+339,technology,Bioenergy,16
+339,technology,Oil,1
+340,scenario,NZE,1
+340,technology,Bioenergy,8
+341,scenario,NZE,3
+341,technology,Hydrogen,23
+341,technology,Bioenergy,2
+342,scenario,NZE,5
+342,technology,Hydrogen,17
+343,scenario,NZE,1
+343,technology,Hydrogen,18
+343,technology,Bioenergy,1
+343,technology,Coal,1
+343,technology,Oil,1
+343,technology,Natural gas/LNG,1
+344,scenario,ACCESS,1
+344,technology,Bioenergy,1
+344,technology,Coal,2
+344,technology,Oil,5
+345,scenario,STEPS,2
+345,scenario,NZE,2
+345,scenario,ACCESS,1
+345,technology,Bioenergy,3
+345,technology,Coal,2
+345,technology,Natural gas/LNG,1
+346,scenario,NZE,8
+346,technology,Electric vehicles,1
+346,technology,Heat pumps,1
+346,technology,CCUS/CCS,1
+346,technology,Nuclear,2
+346,technology,Coal,1
+346,technology,Oil,1
+346,technology,Natural gas/LNG,1
+347,scenario,NZE,3
+347,technology,Electric vehicles,3
+347,technology,Heat pumps,1
+347,technology,Oil,1
+348,scenario,NZE,4
+348,technology,Electric vehicles,2
+348,technology,Oil,2
+349,scenario,CPS,1
+349,scenario,STEPS,1
+349,scenario,NZE,9
+349,technology,Solar PV,1
+349,technology,Wind,1
+349,technology,Batteries/storage,1
+349,technology,Electric vehicles,2
+349,technology,Heat pumps,1
+349,technology,Coal,2
+349,technology,Oil,2
+350,scenario,NZE,6
+350,scenario,ACCESS,1
+350,technology,Bioenergy,1
+350,technology,Coal,2
+350,technology,Oil,1
+350,technology,Natural gas/LNG,1
+351,scenario,NZE,6
+351,scenario,ACCESS,1
+351,technology,Coal,1
+351,technology,Oil,5
+351,technology,Natural gas/LNG,3
+352,scenario,STEPS,2
+352,scenario,NZE,8
+352,technology,Solar PV,1
+352,technology,Batteries/storage,4
+352,technology,Electric vehicles,1
+352,technology,Heat pumps,1
+352,technology,Nuclear,1
+352,technology,Bioenergy,1
+352,technology,Geothermal,1
+353,scenario,STEPS,5
+353,scenario,NZE,7
+353,technology,Nuclear,1
+354,scenario,NZE,2
+354,technology,Nuclear,2
+354,technology,Hydrogen,4
+354,technology,Bioenergy,1
+354,technology,Geothermal,1
+354,technology,Oil,1
+357,scenario,ACCESS,2
+357,technology,Electric vehicles,1
+357,technology,Nuclear,1
+357,technology,Coal,2
+357,technology,Oil,1
+357,technology,Natural gas/LNG,2
+358,scenario,ACCESS,1
+358,technology,Oil,2
+359,technology,Nuclear,1
+359,technology,Coal,1
+359,technology,Oil,1
+359,technology,Natural gas/LNG,1
+360,scenario,ACCESS,2
+360,technology,Nuclear,3
+360,technology,Oil,1
+360,technology,Natural gas/LNG,1
+361,technology,Nuclear,2
+361,technology,Oil,1
+361,technology,Natural gas/LNG,1
+362,technology,Wind,1
+362,technology,Oil,1
+362,technology,Natural gas/LNG,1
+363,scenario,CPS,3
+363,technology,Solar PV,1
+363,technology,Wind,2
+363,technology,Batteries/storage,2
+363,technology,Electric vehicles,2
+363,technology,CCUS/CCS,1
+363,technology,Nuclear,5
+363,technology,Bioenergy,2
+363,technology,Geothermal,3
+363,technology,Coal,4
+363,technology,Oil,4
+363,technology,Natural gas/LNG,4
+364,scenario,CPS,2
+364,scenario,STEPS,2
+364,technology,Solar PV,2
+364,technology,Wind,2
+364,technology,Nuclear,2
+364,technology,Bioenergy,2
+364,technology,Geothermal,1
+364,technology,Coal,1
+364,technology,Oil,5
+364,technology,Natural gas/LNG,7
+365,scenario,CPS,1
+365,scenario,STEPS,1
+365,technology,Solar PV,3
+365,technology,Wind,3
+365,technology,Nuclear,4
+365,technology,Coal,3
+365,technology,Oil,1
+365,technology,Natural gas/LNG,3
+366,scenario,CPS,1
+366,technology,Solar PV,2
+366,technology,Wind,3
+366,technology,Nuclear,3
+366,technology,Geothermal,1
+366,technology,Coal,2
+366,technology,Oil,2
+366,technology,Natural gas/LNG,7
+367,technology,Wind,1
+367,technology,Nuclear,3
+367,technology,Bioenergy,1
+367,technology,Geothermal,1
+367,technology,Coal,3
+367,technology,Oil,5
+367,technology,Natural gas/LNG,5
+368,scenario,CPS,5
+368,scenario,STEPS,1
+368,technology,Nuclear,4
+368,technology,Bioenergy,2
+368,technology,Geothermal,1
+368,technology,Coal,1
+368,technology,Oil,5
+368,technology,Natural gas/LNG,2
+369,scenario,STEPS,2
+369,technology,Solar PV,1
+369,technology,Wind,4
+369,technology,Nuclear,1
+369,technology,Bioenergy,3
+369,technology,Geothermal,1
+369,technology,Coal,1
+369,technology,Oil,2
+369,technology,Natural gas/LNG,1
+370,scenario,STEPS,5
+370,technology,Electric vehicles,3
+370,technology,Coal,2
+370,technology,Oil,4
+370,technology,Natural gas/LNG,2
+371,scenario,STEPS,2
+371,technology,Bioenergy,18
+371,technology,Oil,1
+372,scenario,STEPS,1
+372,scenario,ACCESS,1
+372,technology,Natural gas/LNG,5
+373,scenario,STEPS,4
+373,technology,Solar PV,2
+373,technology,Wind,1
+373,technology,Electric vehicles,1
+373,technology,Heat pumps,1
+373,technology,Nuclear,1
+373,technology,Bioenergy,1
+373,technology,Geothermal,1
+373,technology,Coal,2
+373,technology,Oil,2
+373,technology,Natural gas/LNG,3
+374,scenario,STEPS,4
+374,technology,Solar PV,1
+374,technology,Wind,1
+374,technology,Batteries/storage,1
+374,technology,Nuclear,3
+375,technology,Batteries/storage,1
+375,technology,Heat pumps,2
+376,scenario,STEPS,1
+376,technology,Oil,1
+376,technology,Natural gas/LNG,3
+377,scenario,STEPS,1
+377,technology,Wind,1
+377,technology,Heat pumps,4
+377,technology,Natural gas/LNG,1
+378,scenario,STEPS,5
+378,scenario,ACCESS,6
+378,technology,Coal,1
+378,technology,Oil,4
+379,scenario,STEPS,4
+379,scenario,ACCESS,1
+379,technology,Solar PV,5
+379,technology,Wind,1
+379,technology,Nuclear,3
+379,technology,Bioenergy,1
+379,technology,Geothermal,1
+379,technology,Coal,2
+379,technology,Oil,4
+379,technology,Natural gas/LNG,3
+380,technology,Batteries/storage,6
+380,technology,Natural gas/LNG,2
+381,technology,Batteries/storage,2
+382,scenario,STEPS,1
+382,technology,Solar PV,1
+382,technology,Wind,1
+382,technology,Nuclear,1
+382,technology,Bioenergy,1
+382,technology,Coal,1
+382,technology,Oil,8
+382,technology,Natural gas/LNG,4
+383,scenario,CPS,1
+383,scenario,STEPS,4
+383,technology,Solar PV,1
+383,technology,Wind,1
+383,technology,Electric vehicles,2
+383,technology,Nuclear,1
+383,technology,Hydrogen,1
+383,technology,Bioenergy,1
+383,technology,Coal,1
+383,technology,Oil,4
+383,technology,Natural gas/LNG,3
+384,scenario,CPS,1
+384,scenario,STEPS,2
+385,scenario,STEPS,4
+385,technology,Solar PV,2
+385,technology,Wind,2
+386,scenario,CPS,1
+386,scenario,STEPS,1
+386,technology,Coal,2
+386,technology,Oil,2
+386,technology,Natural gas/LNG,4
+387,scenario,CPS,1
+387,scenario,STEPS,4
+387,technology,Solar PV,1
+387,technology,Wind,1
+387,technology,Nuclear,3
+387,technology,Coal,1
+387,technology,Oil,2
+387,technology,Natural gas/LNG,4
+388,scenario,CPS,4
+388,scenario,STEPS,6
+388,technology,Natural gas/LNG,10
+389,scenario,CPS,2
+389,scenario,STEPS,5
+389,scenario,ACCESS,1
+389,technology,Natural gas/LNG,4
+390,scenario,CPS,4
+390,scenario,STEPS,2
+390,technology,Solar PV,2
+390,technology,Wind,2
+390,technology,Nuclear,3
+390,technology,Coal,1
+390,technology,Oil,2
+390,technology,Natural gas/LNG,1
+391,scenario,CPS,7
+391,scenario,STEPS,5
+391,technology,Batteries/storage,1
+391,technology,Electric vehicles,4
+391,technology,Coal,1
+391,technology,Oil,11
+391,technology,Natural gas/LNG,7
+392,scenario,STEPS,1
+392,technology,Solar PV,1
+392,technology,Wind,1
+392,technology,Batteries/storage,1
+392,technology,Nuclear,3
+392,technology,Coal,16
+392,technology,Oil,1
+393,scenario,CPS,9
+393,scenario,STEPS,8
+393,technology,Solar PV,2
+393,technology,Wind,2
+393,technology,Batteries/storage,2
+393,technology,Coal,15
+394,scenario,STEPS,2
+394,scenario,ACCESS,1
+394,technology,Coal,2
+394,technology,Oil,1
+394,technology,Natural gas/LNG,1
+395,scenario,STEPS,3
+395,scenario,ACCESS,2
+395,technology,Solar PV,3
+395,technology,Wind,3
+395,technology,Nuclear,2
+395,technology,Bioenergy,1
+395,technology,Coal,2
+395,technology,Oil,3
+395,technology,Natural gas/LNG,1
+396,scenario,STEPS,4
+396,technology,Solar PV,3
+396,technology,Wind,2
+396,technology,Batteries/storage,2
+396,technology,Nuclear,2
+396,technology,Coal,4
+396,technology,Natural gas/LNG,2
+397,scenario,STEPS,3
+397,technology,Batteries/storage,5
+398,scenario,CPS,2
+398,scenario,STEPS,2
+398,technology,Nuclear,7
+398,technology,Hydrogen,1
+398,technology,Coal,1
+398,technology,Natural gas/LNG,1
+399,scenario,CPS,6
+399,scenario,STEPS,6
+399,technology,Oil,2
+399,technology,Natural gas/LNG,5
+400,technology,Solar PV,1
+400,technology,Wind,2
+400,technology,Batteries/storage,2
+400,technology,Electric vehicles,1
+400,technology,Nuclear,3
+400,technology,Bioenergy,1
+400,technology,Oil,1
+400,technology,Natural gas/LNG,3
+401,scenario,STEPS,1
+401,technology,Solar PV,2
+401,technology,Wind,1
+401,technology,Nuclear,7
+401,technology,Bioenergy,1
+402,scenario,CPS,3
+402,scenario,STEPS,4
+402,scenario,ACCESS,2
+402,technology,Solar PV,2
+402,technology,Wind,3
+402,technology,Nuclear,1
+402,technology,Bioenergy,4
+402,technology,Coal,6
+402,technology,Oil,4
+402,technology,Natural gas/LNG,4
+403,scenario,CPS,3
+403,scenario,STEPS,5
+403,technology,Coal,6
+403,technology,Oil,4
+403,technology,Natural gas/LNG,4
+404,scenario,CPS,1
+404,scenario,STEPS,3
+404,technology,Coal,1
+405,scenario,CPS,2
+405,scenario,STEPS,7
+405,technology,Solar PV,4
+405,technology,Wind,4
+405,technology,Batteries/storage,2
+405,technology,Electric vehicles,1
+405,technology,Nuclear,2
+405,technology,Bioenergy,1
+405,technology,Coal,5
+405,technology,Oil,3
+405,technology,Natural gas/LNG,3
+406,scenario,STEPS,2
+406,scenario,ACCESS,1
+408,scenario,ACCESS,1
+408,technology,Electric vehicles,1
+408,technology,Nuclear,1
+408,technology,Geothermal,1
+408,technology,Oil,1
+409,scenario,CPS,3
+409,scenario,STEPS,3
+409,scenario,NZE,1
+409,technology,Solar PV,1
+409,technology,Wind,1
+409,technology,Nuclear,1
+409,technology,Hydrogen,3
+409,technology,Coal,4
+409,technology,Oil,2
+409,technology,Natural gas/LNG,3
+410,technology,CCUS/CCS,3
+410,technology,Hydrogen,2
+410,technology,Coal,2
+410,technology,Oil,2
+410,technology,Natural gas/LNG,1
+411,technology,Solar PV,1
+411,technology,Hydrogen,7
+411,technology,Bioenergy,4
+411,technology,Geothermal,2
+411,technology,Coal,5
+411,technology,Oil,6
+411,technology,Natural gas/LNG,3
+412,technology,CCUS/CCS,2
+412,technology,Hydrogen,17
+412,technology,Bioenergy,4
+413,technology,Hydrogen,1
+414,technology,Solar PV,1
+414,technology,Wind,2
+414,technology,CCUS/CCS,4
+414,technology,Nuclear,2
+414,technology,Hydrogen,3
+414,technology,Bioenergy,5
+414,technology,Coal,3
+414,technology,Oil,2
+414,technology,Natural gas/LNG,3
+415,technology,CCUS/CCS,2
+415,technology,Hydrogen,2
+415,technology,Bioenergy,3
+415,technology,Coal,3
+415,technology,Oil,3
+415,technology,Natural gas/LNG,3
+416,technology,Hydrogen,2
+416,technology,Bioenergy,3
+416,technology,Coal,1
+416,technology,Oil,2
+416,technology,Natural gas/LNG,2
+417,technology,Solar PV,2
+417,technology,Wind,2
+417,technology,Batteries/storage,2
+417,technology,CCUS/CCS,6
+417,technology,Nuclear,2
+417,technology,Hydrogen,2
+417,technology,Bioenergy,2
+417,technology,Geothermal,2
+417,technology,Coal,4
+417,technology,Oil,2
+417,technology,Natural gas/LNG,4
+418,technology,Bioenergy,4
+418,technology,Coal,3
+418,technology,Oil,3
+418,technology,Natural gas/LNG,3
+420,technology,Solar PV,1
+420,technology,Wind,2
+420,technology,CCUS/CCS,4
+420,technology,Nuclear,2
+420,technology,Hydrogen,3
+420,technology,Bioenergy,5
+420,technology,Coal,3
+420,technology,Oil,2
+420,technology,Natural gas/LNG,3
+421,technology,CCUS/CCS,2
+421,technology,Hydrogen,2
+421,technology,Bioenergy,3
+421,technology,Coal,3
+421,technology,Oil,3
+421,technology,Natural gas/LNG,3
+422,technology,Hydrogen,2
+422,technology,Bioenergy,3
+422,technology,Coal,1
+422,technology,Oil,2
+422,technology,Natural gas/LNG,2
+423,technology,Solar PV,2
+423,technology,Wind,2
+423,technology,Batteries/storage,2
+423,technology,CCUS/CCS,6
+423,technology,Nuclear,2
+423,technology,Hydrogen,2
+423,technology,Bioenergy,2
+423,technology,Geothermal,2
+423,technology,Coal,4
+423,technology,Oil,2
+423,technology,Natural gas/LNG,4
+424,technology,Bioenergy,4
+424,technology,Coal,3
+424,technology,Oil,3
+424,technology,Natural gas/LNG,3
+426,technology,Solar PV,1
+426,technology,Wind,2
+426,technology,CCUS/CCS,4
+426,technology,Nuclear,2
+426,technology,Hydrogen,3
+426,technology,Bioenergy,5
+426,technology,Coal,3
+426,technology,Oil,2
+426,technology,Natural gas/LNG,3
+427,technology,CCUS/CCS,2
+427,technology,Hydrogen,2
+427,technology,Bioenergy,3
+427,technology,Coal,3
+427,technology,Oil,3
+427,technology,Natural gas/LNG,3
+428,technology,Hydrogen,2
+428,technology,Bioenergy,3
+428,technology,Coal,1
+428,technology,Oil,2
+428,technology,Natural gas/LNG,2
+429,technology,Solar PV,2
+429,technology,Wind,2
+429,technology,Batteries/storage,2
+429,technology,CCUS/CCS,6
+429,technology,Nuclear,2
+429,technology,Hydrogen,2
+429,technology,Bioenergy,2
+429,technology,Geothermal,2
+429,technology,Coal,4
+429,technology,Oil,2
+429,technology,Natural gas/LNG,4
+430,technology,Bioenergy,4
+430,technology,Coal,3
+430,technology,Oil,3
+430,technology,Natural gas/LNG,3
+433,technology,Oil,5
+433,technology,Natural gas/LNG,1
+434,scenario,CPS,2
+434,scenario,STEPS,2
+434,technology,Hydrogen,1
+434,technology,Bioenergy,1
+434,technology,Coal,1
+434,technology,Oil,4
+434,technology,Natural gas/LNG,1
+435,technology,Natural gas/LNG,2
+436,technology,Coal,4
+438,technology,Solar PV,1
+439,technology,Wind,1
+439,technology,Nuclear,1
+440,technology,Coal,1
+440,technology,Natural gas/LNG,1
+443,technology,CCUS/CCS,1
+443,technology,Hydrogen,7
+443,technology,Bioenergy,2
+443,technology,Oil,1
+447,scenario,CPS,12
+447,scenario,STEPS,8
+448,scenario,STEPS,1
+448,scenario,NZE,2
+448,scenario,ACCESS,4
+451,technology,Coal,5
+451,technology,Oil,5
+451,technology,Natural gas/LNG,2
+452,technology,Coal,4
+452,technology,Oil,1
+453,technology,Solar PV,5
+453,technology,Wind,9
+453,technology,Batteries/storage,2
+453,technology,Nuclear,2
+453,technology,Geothermal,1
+453,technology,Coal,1
+454,scenario,CPS,1
+454,technology,Solar PV,4
+454,technology,Wind,8
+454,technology,Nuclear,4
+454,technology,Geothermal,5
+454,technology,Coal,4
+455,scenario,STEPS,1
+455,technology,Solar PV,4
+455,technology,Wind,8
+455,technology,Nuclear,4
+455,technology,Geothermal,5
+455,technology,Coal,4
+456,scenario,NZE,1
+456,technology,Solar PV,4
+456,technology,Wind,8
+456,technology,Nuclear,4
+456,technology,Geothermal,5
+456,technology,Coal,4
+457,scenario,CPS,1
+457,scenario,STEPS,1
+457,scenario,NZE,1
+457,technology,Batteries/storage,3
+457,technology,CCUS/CCS,3
+457,technology,Hydrogen,3
+458,technology,Batteries/storage,2
+458,technology,Hydrogen,1
+459,scenario,CPS,2
+459,scenario,STEPS,2
+459,scenario,NZE,2
+460,scenario,CPS,7
+460,scenario,STEPS,8
+460,scenario,NZE,2
+461,scenario,CPS,10
+461,scenario,STEPS,8
+461,scenario,ACCESS,1
+461,technology,Coal,1
+461,technology,Natural gas/LNG,2
+462,scenario,CPS,6
+462,scenario,STEPS,6
+462,technology,Solar PV,1
+462,technology,Wind,2
+462,technology,Nuclear,5
+462,technology,Coal,6
+463,scenario,CPS,4
+463,scenario,STEPS,5
+463,technology,Solar PV,2
+463,technology,Wind,5
+463,technology,Batteries/storage,2
+463,technology,Nuclear,4
+463,technology,Coal,2
+464,scenario,CPS,3
+464,scenario,STEPS,3
+464,technology,Oil,1
+465,scenario,CPS,6
+465,scenario,STEPS,5
+465,technology,Coal,1
+466,scenario,CPS,4
+466,scenario,STEPS,4
+466,technology,CCUS/CCS,2
+466,technology,Hydrogen,1
+467,scenario,CPS,5
+467,scenario,STEPS,5
+467,technology,Solar PV,1
+467,technology,Batteries/storage,1
+467,technology,CCUS/CCS,2
+467,technology,Hydrogen,1
+467,technology,Natural gas/LNG,3
+468,scenario,CPS,6
+468,scenario,STEPS,6
+468,technology,Heat pumps,2
+468,technology,Coal,1
+468,technology,Oil,1
+469,scenario,CPS,4
+469,scenario,STEPS,4
+469,technology,Heat pumps,1
+470,scenario,CPS,6
+470,scenario,STEPS,6
+471,scenario,CPS,6
+471,scenario,STEPS,6
+471,technology,Electric vehicles,3
+471,technology,Bioenergy,1
+472,scenario,CPS,5
+472,scenario,STEPS,5
+472,technology,Batteries/storage,3
+472,technology,Electric vehicles,3
+472,technology,Hydrogen,1
+473,scenario,CPS,5
+473,scenario,STEPS,5
+473,technology,Batteries/storage,2
+473,technology,Electric vehicles,13
+473,technology,Hydrogen,1
+474,scenario,CPS,3
+474,scenario,STEPS,3
+474,scenario,NZE,3
+475,technology,Coal,2
+475,technology,Oil,5
+475,technology,Natural gas/LNG,1
+476,technology,Oil,3
+476,technology,Natural gas/LNG,2
+477,technology,Batteries/storage,3
+477,technology,Hydrogen,6
+477,technology,Bioenergy,5
+477,technology,Oil,1
+478,technology,Batteries/storage,2
+478,technology,Electric vehicles,1
+478,technology,CCUS/CCS,4
+478,technology,Nuclear,1
+478,technology,Hydrogen,1
+478,technology,Coal,1
+478,technology,Oil,1
+478,technology,Natural gas/LNG,2
+479,technology,Hydrogen,3
+479,technology,Coal,16
+479,technology,Oil,4
+479,technology,Natural gas/LNG,5
+480,technology,Batteries/storage,1
+480,technology,Electric vehicles,5
+480,technology,CCUS/CCS,1
+480,technology,Hydrogen,3
+481,technology,Heat pumps,2
+481,technology,CCUS/CCS,1
+481,technology,Nuclear,1
+481,technology,Hydrogen,4
+481,technology,Geothermal,4
+481,technology,Coal,3
+481,technology,Oil,1
+481,technology,Natural gas/LNG,3
+482,technology,Batteries/storage,2
+482,technology,Electric vehicles,2
+482,technology,Hydrogen,9
+482,technology,Coal,1
+482,technology,Oil,1
+483,technology,Wind,1
+483,technology,CCUS/CCS,4
+483,technology,Nuclear,2
+483,technology,Hydrogen,11
+483,technology,Bioenergy,4
+483,technology,Coal,1
+483,technology,Oil,2
+484,scenario,ACCESS,5
+484,technology,Hydrogen,5
+484,technology,Bioenergy,6
+484,technology,Coal,1
+484,technology,Oil,3
+484,technology,Natural gas/LNG,4
+485,technology,Wind,7
+485,technology,Nuclear,2
+485,technology,Hydrogen,3
+485,technology,Bioenergy,2
+485,technology,Coal,2
+485,technology,Oil,7
+485,technology,Natural gas/LNG,7
+486,scenario,ACCESS,1
+486,technology,Solar PV,1
+486,technology,Wind,2
+486,technology,Electric vehicles,1
+486,technology,Bioenergy,1
+486,technology,Geothermal,1
+487,scenario,ACCESS,2
+487,technology,Solar PV,4
+487,technology,Wind,1
+487,technology,Batteries/storage,1
+487,technology,Bioenergy,2
+487,technology,Coal,1
+487,technology,Oil,1
+487,technology,Natural gas/LNG,1
+488,technology,Heat pumps,1
+488,technology,Hydrogen,3
+488,technology,Coal,7
+488,technology,Oil,10
+488,technology,Natural gas/LNG,2
+489,technology,Solar PV,1
+489,technology,Wind,1
+489,technology,Batteries/storage,1
+489,technology,CCUS/CCS,3
+489,technology,Coal,2
+489,technology,Oil,5
+489,technology,Natural gas/LNG,3
+492,scenario,ACCESS,1
+492,technology,Batteries/storage,1
+492,technology,Electric vehicles,1
+492,technology,CCUS/CCS,3
+492,technology,Bioenergy,1
+493,scenario,CPS,2
+493,technology,Electric vehicles,2
+493,technology,Hydrogen,1
+493,technology,Coal,2
+493,technology,Oil,3
+493,technology,Natural gas/LNG,1
+494,scenario,STEPS,2
+494,scenario,NZE,2
+494,technology,Solar PV,1
+494,technology,Electric vehicles,1
+494,technology,Oil,2
+494,technology,Natural gas/LNG,4
+497,technology,Electric vehicles,2
+497,technology,Coal,2
+497,technology,Oil,2
+498,technology,Batteries/storage,2
+499,technology,Electric vehicles,2
+499,technology,Nuclear,3
+499,technology,Oil,2
+500,scenario,CPS,1
+500,technology,Electric vehicles,4
+500,technology,Nuclear,2
+500,technology,Hydrogen,1
+500,technology,Geothermal,2
+500,technology,Coal,2
+501,scenario,STEPS,1
+501,technology,Solar PV,1
+501,technology,Batteries/storage,1
+501,technology,Electric vehicles,5
+501,technology,Geothermal,2
+502,scenario,CPS,1
+502,scenario,STEPS,1
+503,technology,Coal,2
+503,technology,Oil,2
+504,scenario,ACCESS,6
+504,technology,Oil,1
+504,technology,Natural gas/LNG,2
+505,technology,Bioenergy,2
+505,technology,Oil,2
+506,technology,Hydrogen,1
+507,technology,Wind,3
+507,technology,Batteries/storage,3
+508,technology,Batteries/storage,1
+508,technology,Electric vehicles,1
+508,technology,Oil,6
+508,technology,Natural gas/LNG,1
+509,technology,Coal,2
+509,technology,Oil,2
+510,technology,CCUS/CCS,2
+510,technology,Hydrogen,2
+510,technology,Natural gas/LNG,1
+511,technology,Coal,2
+511,technology,Oil,2
+513,technology,Electric vehicles,3
+514,scenario,ACCESS,1
+514,technology,Heat pumps,1
+515,scenario,ACCESS,1
+516,technology,Coal,2
+516,technology,Oil,3
+519,scenario,ACCESS,1
